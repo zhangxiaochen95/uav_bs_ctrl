@@ -1,4 +1,4 @@
-# uav_bs_ctrl
+# Cooperative Trajectory Design of Multiple UAV Base Stations with Heterogeneous Graph Neural Networks
 
 This is an improved python3 implmentation of our paper [Cooperative Trajectory Design of Multiple UAV Base Stations with Heterogeneous Graph Neural Networks](https://ieeexplore.ieee.org/document/9892688). 
 
