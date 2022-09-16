@@ -32,7 +32,8 @@ If you find our work helpful or use this code in your research, please cite our 
   volume={},  
   number={},  
   pages={1-1},  
-  doi={10.1109/TWC.2022.3204794}}
+  doi={10.1109/TWC.2022.3204794}
+}
 ```
 Thank you very much!
 
