@@ -1,6 +1,6 @@
 # Cooperative Trajectory Design of Multiple UAV Base Stations with Heterogeneous Graph Neural Networks
 
-This is an improved python3 implmentation of our paper [Cooperative Trajectory Design of Multiple UAV Base Stations with Heterogeneous Graph Neural Networks](https://ieeexplore.ieee.org/document/9892688). 
+This is an improved python3 implmentation of our paper [Cooperative Trajectory Design of Multiple UAV Base Stations with Heterogeneous Graph Neural Networks](https://ieeexplore.ieee.org/document/9892688) on *IEEE Transactions on Wireless Communications*. 
 
 Multi-agent reinforcement learning (MARL) is leveraged to train distrbuted policies for unmanned arial vehicle base stations (UBSs) providing wireless coverage for ground terminals (GTs). Particularly, graph neural networks (GNNs) are used to enbale efficient local observation encoding and multi-agent communication. 
 
