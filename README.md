@@ -21,19 +21,18 @@ The `requirements.txt` file shows installed packages to run the code. Note that 
 
 ## Citing Our Work
 
-If you find our work helpful or use this code in your research, please cite our work. BibTex format is 
+If you find our work helpful or use this code in your research, please cite our work. BibTeX format is 
 
 ```tex
 @ARTICLE{9892688,
-  author={Zhang, Xiaochen and Zhao, Haitao and Wei, Jibo and Yan, Chao and Xiong, Jun and Liu, Xiaoran},  
-  journal={IEEE Transactions on Wireless Communications},   
-  title={Cooperative Trajectory Design of Multiple UAV Base Stations with Heterogeneous Graph Neural Networks},   
-  year={2022},  
-  volume={},  
-  number={},  
-  pages={1-1},  
-  doi={10.1109/TWC.2022.3204794}
-}
+  author={Zhang, Xiaochen and Zhao, Haitao and Wei, Jibo and Yan, Chao and Xiong, Jun and Liu, Xiaoran},
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Cooperative Trajectory Design of Multiple UAV Base Stations With Heterogeneous Graph Neural Networks}, 
+  year={2023},
+  volume={22},
+  number={3},
+  pages={1495-1509},
+  doi={10.1109/TWC.2022.3204794}}
 ```
 Thank you very much!
 
